@@ -1,0 +1,33 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de captura de pantalla de errores
+*.png
+
+# Archivos temporales
+*.swp
+*.swo
+
+# Archivos de base de datos
+*.db
+*.sqlite3
+
+# Archivos de registro
+*.log
+
+# Archivos de ChromeDriver
+chromedriver.exe
+msedgedriver.exe
