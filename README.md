@@ -3,15 +3,8 @@
 Un bot de WhatsApp desarrollado en Python que permite el envío automatizado de mensajes a través de WhatsApp Web.
 
 ## 🚀 Características
-
-- Envío masivo de mensajes a múltiples contactos
-- Soporte para mensajes largos
 - Interfaz de línea de comandos fácil de usar
-- Configuración personalizable de tiempos de espera
-- Múltiples métodos de envío (Enter, botón de enviar, JavaScript)
-- Detección inteligente del cuadro de mensaje
-- Manejo de errores robusto
-
+  
 ## 📋 Requisitos
 
 - Python 3.7 o superior
