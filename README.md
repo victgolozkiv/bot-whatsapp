@@ -67,4 +67,5 @@ Las contribuciones son bienvenidas. Por favor, abre un issue primero para discut
 
 ## 📧 Contacto
 
-¿Preguntas o sugerencias? ¡Siéntete libre de contactarme!
+¿Preguntas o sugerencias? ¡Siéntete libre de contactarme!, 
+todo se hizo con IA
